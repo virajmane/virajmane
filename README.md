@@ -1,6 +1,6 @@
-# Hi there 👋 My name is Viraj Mane
+## Hi there 👋 My name is Viraj Mane
 
-## Social Media
+### Social Media
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -25,7 +25,7 @@
 
 
 
-## Languages and Tools
+### Languages and Tools
 
 ![alt text][1.2]
 ![alt text][2.2]
@@ -57,14 +57,14 @@
 
 
 
-## About Me
+### About Me
 - 🔭 I’m currently working on Web Scrapping
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about anything that you'd like
 - 📫 How to reach me: https://forms.gle/RGSDpbGmGvDYAbTu9
 - ⚡ Fun fact: Most of the fun facts aren't facts
 
-## Stats
+### Stats
 ![Viraj's github stats](https://github-readme-stats.vercel.app/api?username=virajmane&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virajmane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
