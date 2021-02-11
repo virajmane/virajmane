@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Viraj Mane
+## Hi there 👋 My name is Viraj Mane ![alt text][7.1]
 
 ### Social Media
 
@@ -15,6 +15,7 @@
 [4.1]: https://1.bp.blogspot.com/-i3GlTdkqyYU/X7aX8CnTgrI/AAAAAAAAAkg/L4HKmNq_pX0KYyNQ1MXYE3q7Sm3XtnlqwCLcBGAsYHQ/s50/icons8-stack-overflow-50.png (stackoverflow icon with padding)
 [5.1]: https://lh3.googleusercontent.com/-9Cty2tDO5oU/X7aZx_sWyRI/AAAAAAAAAlM/At2PiLVVn98tq16LoTlBqQijheqT3rNQQCLcBGAsYHQ/icons8-telegram-app-50.png (dribbble icon with padding)
 [6.1]: https://1.bp.blogspot.com/-rJTC50wiu38/X7aX7LgbRvI/AAAAAAAAAkM/2rPV8VNUyIAUHeREQSK9BBgZoCyblaDJACLcBGAsYHQ/s0/icons8-facebook-50.png (facebook icon with padding)
+[7.1]: https://www.codewars.com/users/virajmane/badges/micro
 
 [1]: http://www.linkedin.com/in/virajmane
 [2]: http://www.github.com/virajmane
