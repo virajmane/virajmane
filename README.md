@@ -59,8 +59,8 @@
 
 
 ### About Me
-- 🔭 I’m currently working on Web Scrapping
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on devops tools
+- 🌱 I’m currently learning everything
 - 💬 Ask me about anything that you'd like
 - 📫 How to reach me: https://forms.gle/RGSDpbGmGvDYAbTu9
 - ⚡ Fun fact: Most of the fun facts aren't facts
