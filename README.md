@@ -19,10 +19,10 @@
 
 [1]: http://www.linkedin.com/in/virajmane
 [2]: http://www.github.com/virajmane
-[3]: https://www.instagram.com/viraj.py
-[4]: https://stackoverflow.com/users/13546849/viraj-mane
-[5]: http://t.me/virajmane
-[6]: https://www.facebook.com/people/Viraj-Mane/100007237389432
+[3]: https://www.instagram.com
+[4]: https://stackoverflow.com
+[5]: http://t.me
+[6]: https://www.facebook.com
 
 
 
